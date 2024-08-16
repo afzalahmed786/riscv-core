@@ -1,22 +1,3 @@
-# 32 bit RISC-V Processor 
-
-## Overview
-
-This repository contains Verilog code for a 32-bit RISC-V processor implementation. The code includes the processor's main components, instruction decoding, arithmetic operations, and branching logic.
-
-## Files
-
-- `riscv_processor.tlv`: The main Verilog code for the RISC-V processor.
-
-## Features
-
-- **Instruction Fetching**: Handles the fetching of instructions from memory.
-- **Instruction Decoding**: Decodes various RISC-V instructions including R-type, I-type, S-type, B-type, U-type, and J-type instructions.
-- **Arithmetic Operations**: Supports arithmetic and logical operations such as addition, subtraction, multiplication, bitwise operations, and shifting.
-- **Branching**: Implements conditional and unconditional branching.
-- **Immediate Value Handling**: Extracts and uses immediate values from instructions.
-
-## Components
 # RISC-V Processor Verilog Code
 
 ## Overview
