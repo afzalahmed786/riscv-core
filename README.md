@@ -35,4 +35,8 @@ The result value from the ALU is then written back to the destination register s
 The test program executes entirely out of the register file and does not require a data memory (DMem). However, a complete CPU includes a DMem. The DMem is written to by store instructions and read from by load instructions.
 
 
+![image](https://github.com/user-attachments/assets/73b2d380-1233-46c7-97d4-bfff73f9944d)
+
+
+
 
